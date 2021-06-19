@@ -1,2 +1,2 @@
 # HUG
-This my first project
+Chat Project in Python
