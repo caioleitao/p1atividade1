@@ -35,7 +35,7 @@ def calcular():
             n2 = float(input("Digite o segundo numero: "))
             n3 = float(input("Digite o terceiro numero: "))
 
-            resultado = n1 / (n2 / n3)
+            resultado = n1 / (n2 * n3)
 
             print("O resultado é: ", resultado)
 
